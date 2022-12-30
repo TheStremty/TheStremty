@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Franciszek</h1>
+<h1 align="center">Hi 👋, I'm Francis</h1>
 <h3 align="center">I am a young student who is fascinated in programming. I love creating software for computers.</h3>
 
-
-
-- 🌱 Currently I'm striving to be better at: **js, c#, c++**
-
-- 👨‍💻 All of my projects will be available at: [stremty.space](https://stremty.space)
+- 🌱 Currently I'm learning: **js, c#, c++**
 
 - 📫 How to reach me: **stremty.dc@gmail.com**
 
-- ⚡ Fun fact: **I have been learning how to code since I was 11 years old.**
+- 👶 I am learning how to code since I was 11 years old.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
