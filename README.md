@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francis</h1>
 <h3 align="center">I am a young student who is fascinated in programming. I love to creating software for computers.</h3>
+[![Discord Presence](https://lanyard.cnrad.dev/api/770603168623099925)](https://discord.com/users/770603168623099925)
 
 - 🌱 Currently I'm learning: **js, c#, c++**
 
