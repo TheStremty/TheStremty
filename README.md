@@ -6,11 +6,11 @@
 <p align="center">
   - 🌱 Currently I'm learning: **js, c#, c++**
 
-- 📫 How to reach me: **stremty.dc@gmail.com**
+  - 📫 How to reach me: **stremty.dc@gmail.com**
 
-- 👶 I'm learning how to code since I was 11 years old.
+  - 👶 I'm learning how to code since I was 11 years old.
 
-- 🤔 I’m exploring new technologies and solutions.
+  - 🤔 I’m exploring new technologies and solutions.
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
