@@ -5,11 +5,14 @@
 </p>
 <p align="center">
   - 🌱 Currently I'm learning: **js, c#, c++**
-
+</p>
+<p align="center">
   - 📫 How to reach me: **stremty.dc@gmail.com**
-
+</p>
+<p align="center">
   - 👶 I'm learning how to code since I was 11 years old.
-
+</p>
+<p align="center">
   - 🤔 I’m exploring new technologies and solutions.
 </p>
 <h3 align="center">Connect with me:</h3>
