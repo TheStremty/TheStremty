@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/770603168623099925" alt="Discord Status" width="420" />
 </p>
-- 🌱 Currently I'm learning: **js, c#, c++**
+<p align="center">
+  - 🌱 Currently I'm learning: **js, c#, c++**
 
 - 📫 How to reach me: **stremty.dc@gmail.com**
 
@@ -19,3 +20,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/thestremty"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thestremty" /></a></p><br><br>
+</p>
+
